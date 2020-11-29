@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c35aec6a-1b17-4cec-8a18-290ab36bb29a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/736E566D-0B27-484A-863F-F53E0B28E3C4/d9/85b96659/NetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4BFB560-CB05-4C0C-A7A3-35C97F48409C/2b/baee22a4/IAppLinkResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B202EA6-AAED-4B69-A999-887EE2685003/1a/c73941f0/ScreenOrientation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B202EA6-AAED-4B69-A999-887EE2685003/04/b13db705/PlayerPrefs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4BFB560-CB05-4C0C-A7A3-35C97F48409C/65/7674351a/FacebookDelegate`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E048E12F-D532-4D88-9E99-17B8A31BD9ED/b3/08701c18/Analytics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4BFB560-CB05-4C0C-A7A3-35C97F48409C/6a/1a860233/FB.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/95/d16948cb/RegionInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B202EA6-AAED-4B69-A999-887EE2685003/07/f6fdcb24/Screen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B202EA6-AAED-4B69-A999-887EE2685003/af/53288f52/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B202EA6-AAED-4B69-A999-887EE2685003/0b/e9e8c6f0/LocationInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Essences/KeyDataDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4BFB560-CB05-4C0C-A7A3-35C97F48409C/f3/e5ecfefe/IMobileFacebook.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4BFB560-CB05-4C0C-A7A3-35C97F48409C/2a/d7ceeffd/IResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B202EA6-AAED-4B69-A999-887EE2685003/62/e850f8b4/LocationService.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Scene1/DataOutput.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/DataOutputSDK.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/InitializationManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/AppsFlyerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/FbManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/KeyDataOutputSDK.cs" />
+        <option value="$PROJECT_DIR$/Assets/Wibci.CountryReverseGeocode-master/Wibci.CountryReverseGeocode.DataConversion/Program.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Essences/IpInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Scene1/SettingsScene1.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Essences/KeyDataOutputSDK.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Essences/KeyDataDto.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Scene1/OutputDataScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Scene1/SwitchButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Essences/GeoService.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/InitializingServicesScene/OutputDataScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/InitializingServicesScene/SettingsInitializingServicesScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Managers/InitializationManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/UniWebView/Script/UniWebView.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Managers/SwitchingScenesManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Essences/KeyDataDTO.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/InitializingServicesScene/OutputData.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/InitializingServicesScene/SwitchButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Managers/AppsFlyerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/Managers/FbManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/WebViewScene/SettingsWebViewScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/WebViewScene/WebViewSceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTaskMpulseProjectMaterials/Scripts/WrapperScene/SettingsWrapperScene.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kqgTtWNEOsX21f1jVVdxR7QI4B" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c35aec6a-1b17-4cec-8a18-290ab36bb29a" name="Default Changelist" comment="" />
+      <created>1606433547111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606433547111</updated>
+      <workItem from="1606433551152" duration="10000" />
+      <workItem from="1606433985778" duration="743000" />
+      <workItem from="1606435588625" duration="4267000" />
+      <workItem from="1606488479149" duration="6227000" />
+      <workItem from="1606506907638" duration="21183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="247" key="run.anything.popup" timestamp="1606565051554">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="501" y="247" key="run.anything.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1606565051554" />
+    <state x="501" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1606669388509">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="501" y="251" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1606669388509" />
+  </component>
+</project>

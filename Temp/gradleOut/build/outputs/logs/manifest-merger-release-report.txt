@@ -1,0 +1,472 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [:UniWebView:] /Users/listik/.gradle/caches/transforms-1/files-1.1/UniWebView.aar/034a823bf02d0f138da68cbb235b9e2a/AndroidManifest.xml:2:1-15:12
+MERGED from [:androidx.activity.activity-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.activity.activity-1.0.0.aar/d152a6ef6dfd92eec0a0fb9186a509ee/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.appcompat.appcompat-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.appcompat.appcompat-1.1.0.aar/29da2ebc55eb9479916f93080b47343a/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.appcompat.appcompat-resources-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.appcompat.appcompat-resources-1.1.0.aar/9a56577bcdb0329fe7ee1595fbe825bf/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.arch.core.core-runtime-2.0.0.aar/d7a206c6529cd00139ce37b93f788f40/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar/0283556bc873a18db0134b403d960e22/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.browser.browser-1.0.0.aar/9332a2d4cc7d9d6951770373f6b5c563/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.cardview.cardview-1.0.0.aar/7b24e6061a550ef0b28c57c8abb5d488/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar/5ce9b19ba2b00e9834f8528dc75aaeb7/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.1.0.aar/1c9f00fed7e981d9e649209ba2eda903/AndroidManifest.xml:17:1-26:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.cursoradapter.cursoradapter-1.0.0.aar/b953b8493c5b2bbc5eddc4455615147b/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.customview.customview-1.0.0.aar/1f6145ac084c43f7323d76493a5c875f/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.documentfile.documentfile-1.0.0.aar/9eaed59bb857632cc3e17fcabdfea37c/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.drawerlayout.drawerlayout-1.0.0.aar/fd764be071d594d8291b43a2e803df69/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.fragment.fragment-1.1.0.aar/7dc06551099aec33c4fbbb0f711164b6/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.interpolator.interpolator-1.0.0.aar/bed33f11cc5bff627e2203ad578661b4/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.legacy.legacy-support-core-ui-1.0.0.aar/ab8c468c832d0cd042943dfef5eb99d6/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.legacy.legacy-support-core-utils-1.0.0.aar/6aafa13e24c827df0d8919a5bda88029/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.legacy.legacy-support-v4-1.0.0.aar/38cd8e9e95192f000a42c11582c6eb81/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-livedata-2.0.0.aar/d9ad0ec0ca8b980b6508fee71e90d728/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-livedata-core-2.0.0.aar/188699209c3e99d7af8a325e2cf2dc88/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-runtime-2.1.0.aar/deaef9f734d74f277ed06dcc4eaa0da2/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-viewmodel-2.1.0.aar/f816350feeff93b67203d0ad08530d3b/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.loader.loader-1.0.0.aar/031dbd5c3e4069f43f33c5b4d1242ff2/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0.aar/9423bd2bf5c25af4cd1225b467b87273/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.media.media-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.media.media-1.0.0.aar/afe94867386e452795015d0216e1a9a9/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.print.print-1.0.0.aar/03e3bfc371649c54b10b8ace8e113f9b/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.savedstate.savedstate-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.savedstate.savedstate-1.0.0.aar/06a3183882b0a382fb0fd7abf4fa61d8/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar/44a959d75bca5a139ae5b1f9bbbaed67/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar/838ca49802eb70ee805068f279ddba05/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.vectordrawable.vectordrawable-1.1.0.aar/130ae012b8194711efe5af7640d74ba9/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.vectordrawable.vectordrawable-animated-1.1.0.aar/43a6d42bbdf7eb3b4a40b3837b1517a3/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.versionedparcelable.versionedparcelable-1.1.0.aar/79249b21cbd8437e5b50a51130671707/AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.viewpager.viewpager-1.0.0.aar/37665f8dcdd066584a178119c1f9c2f2/AndroidManifest.xml:17:1-22:12
+MERGED from [:com.android.installreferrer.installreferrer-2.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.android.installreferrer.installreferrer-2.1.aar/3e7ec536e16c060b2b881c6edca2c88c/AndroidManifest.xml:2:1-13:12
+MERGED from [:com.appsflyer.af-android-sdk-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.af-android-sdk-5.4.3.aar/e5fcc1d63c2031b3ea01d911e85402d3/AndroidManifest.xml:2:1-17:12
+MERGED from [:com.appsflyer.oaid-5.4.2:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.oaid-5.4.2.aar/a5d1c55339dffe9ad404085cc0f502b9/AndroidManifest.xml:2:1-11:12
+MERGED from [:com.appsflyer.unity-wrapper-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.unity-wrapper-5.4.3.aar/9c550c7e259e112c9086b6092c5f782e/AndroidManifest.xml:2:1-11:12
+MERGED from [:com.facebook.android.facebook-applinks-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-applinks-8.1.0.aar/08218fb20674f7156d8bd99aa1b9747e/AndroidManifest.xml:21:1-31:12
+MERGED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:21:1-35:12
+MERGED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:21:1-40:12
+MERGED from [:com.facebook.android.facebook-gamingservices-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-gamingservices-8.1.0.aar/d8dd3b497dda523b713511d24e4829c8/AndroidManifest.xml:21:1-31:12
+MERGED from [:com.facebook.android.facebook-login-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-login-8.1.0.aar/3e530584a59efa50ce9e2357c3b5bcb9/AndroidManifest.xml:21:1-31:12
+MERGED from [:com.facebook.android.facebook-share-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-share-8.1.0.aar/fa3c32461c7be24ec3f5ed22579cb854/AndroidManifest.xml:21:1-31:12
+MERGED from [:facebook-android-wrapper-8.1.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/facebook-android-wrapper-8.1.1.aar/90034525879ef7247d07c39a5ffc779e/AndroidManifest.xml:21:1-30:12
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-113
+		INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:138-163
+		INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:114-137
+		INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:2:164-204
+supports-screens
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-34:17
+MERGED from [:UniWebView:] /Users/listik/.gradle/caches/transforms-1/files-1.1/UniWebView.aar/034a823bf02d0f138da68cbb235b9e2a/AndroidManifest.xml:11:5-13:19
+MERGED from [:UniWebView:] /Users/listik/.gradle/caches/transforms-1/files-1.1/UniWebView.aar/034a823bf02d0f138da68cbb235b9e2a/AndroidManifest.xml:11:5-13:19
+MERGED from [:androidx.core.core-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.1.0.aar/1c9f00fed7e981d9e649209ba2eda903/AndroidManifest.xml:24:5-89
+MERGED from [:androidx.core.core-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.1.0.aar/1c9f00fed7e981d9e649209ba2eda903/AndroidManifest.xml:24:5-89
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.versionedparcelable.versionedparcelable-1.1.0.aar/79249b21cbd8437e5b50a51130671707/AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.versionedparcelable.versionedparcelable-1.1.0.aar/79249b21cbd8437e5b50a51130671707/AndroidManifest.xml:24:5-25:19
+MERGED from [:com.android.installreferrer.installreferrer-2.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.android.installreferrer.installreferrer-2.1.aar/3e7ec536e16c060b2b881c6edca2c88c/AndroidManifest.xml:11:5-20
+MERGED from [:com.android.installreferrer.installreferrer-2.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.android.installreferrer.installreferrer-2.1.aar/3e7ec536e16c060b2b881c6edca2c88c/AndroidManifest.xml:11:5-20
+MERGED from [:com.appsflyer.af-android-sdk-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.af-android-sdk-5.4.3.aar/e5fcc1d63c2031b3ea01d911e85402d3/AndroidManifest.xml:14:5-15:19
+MERGED from [:com.appsflyer.af-android-sdk-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.af-android-sdk-5.4.3.aar/e5fcc1d63c2031b3ea01d911e85402d3/AndroidManifest.xml:14:5-15:19
+MERGED from [:com.facebook.android.facebook-applinks-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-applinks-8.1.0.aar/08218fb20674f7156d8bd99aa1b9747e/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-applinks-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-applinks-8.1.0.aar/08218fb20674f7156d8bd99aa1b9747e/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:23:3-34:17
+MERGED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:23:3-34:17
+MERGED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:23:3-39:17
+MERGED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:23:3-39:17
+MERGED from [:com.facebook.android.facebook-gamingservices-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-gamingservices-8.1.0.aar/d8dd3b497dda523b713511d24e4829c8/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-gamingservices-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-gamingservices-8.1.0.aar/d8dd3b497dda523b713511d24e4829c8/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-login-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-login-8.1.0.aar/3e530584a59efa50ce9e2357c3b5bcb9/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-login-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-login-8.1.0.aar/3e530584a59efa50ce9e2357c3b5bcb9/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-share-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-share-8.1.0.aar/fa3c32461c7be24ec3f5ed22579cb854/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-share-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-share-8.1.0.aar/fa3c32461c7be24ec3f5ed22579cb854/AndroidManifest.xml:28:5-29:19
+MERGED from [:facebook-android-wrapper-8.1.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/facebook-android-wrapper-8.1.1.aar/90034525879ef7247d07c39a5ffc779e/AndroidManifest.xml:28:5-20
+MERGED from [:facebook-android-wrapper-8.1.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/facebook-android-wrapper-8.1.1.aar/90034525879ef7247d07c39a5ffc779e/AndroidManifest.xml:28:5-20
+	android:supportsRtl
+		ADDED from [:com.facebook.android.facebook-applinks-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-applinks-8.1.0.aar/08218fb20674f7156d8bd99aa1b9747e/AndroidManifest.xml:28:18-44
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.1.0.aar/1c9f00fed7e981d9e649209ba2eda903/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:4:75-107
+	android:fullBackupContent
+		ADDED from [:com.appsflyer.af-android-sdk-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.af-android-sdk-5.4.3.aar/e5fcc1d63c2031b3ea01d911e85402d3/AndroidManifest.xml:14:18-73
+	android:icon
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:4:168-199
+	android:banner
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:4:130-167
+	android:theme
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-74
+	android:isGame
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:4:108-129
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+activity#com.facebook.unity.FBUnityLoginActivity
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-301
+	android:configChanges
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:13:70-227
+	android:theme
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:13:228-298
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:13:15-69
+activity#com.facebook.unity.FBUnityDialogsActivity
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-303
+	android:configChanges
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:14:72-229
+	android:theme
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:14:230-300
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:14:15-71
+activity#com.facebook.unity.FBUnityGamingServicesFriendFinderActivity
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-322
+	android:configChanges
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:15:91-248
+	android:theme
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:15:249-319
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:15:15-90
+activity#com.facebook.unity.FBUnityAppLinkActivity
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-22:16
+	android:exported
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:16:72-95
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:16:15-71
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:app
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:17:7-21:23
+action#android.intent.action.VIEW
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:18:9-61
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:18:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:19:9-68
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:19:19-65
+data
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:20:9-38
+	android:scheme
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:20:15-35
+activity#com.facebook.unity.FBUnityDeepLinkingActivity
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:23:5-102
+	android:exported
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:23:76-99
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:23:15-75
+activity#com.facebook.unity.FBUnityGameRequestActivity
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:24:5-78
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:24:15-75
+activity#com.facebook.unity.FBUnityCreateGameGroupActivity
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:25:5-82
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:25:15-79
+activity#com.facebook.unity.FBUnityJoinGameGroupActivity
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:26:15-77
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:27:5-98
+	android:value
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:27:62-95
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:27:16-61
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:28:5-95
+	android:value
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:28:72-92
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:28:16-71
+meta-data#com.facebook.sdk.AdvertiserIDCollectionEnabled
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:29:5-101
+	android:value
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:29:78-98
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:29:16-77
+provider#com.facebook.FacebookContentProvider
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:30:5-171
+	android:authorities
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:30:67-144
+	android:exported
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:30:145-168
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:30:15-66
+meta-data#unity.build-id
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:31:5-101
+	android:value
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:31:46-98
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:31:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:32:5-69
+	android:value
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:32:49-66
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:32:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:33:5-74
+	android:value
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:33:51-71
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:33:16-50
+uses-feature#0x00020000
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:35:3-52
+	android:glEsVersion
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:35:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:36:3-65
+MERGED from [:UniWebView:] /Users/listik/.gradle/caches/transforms-1/files-1.1/UniWebView.aar/034a823bf02d0f138da68cbb235b9e2a/AndroidManifest.xml:9:5-67
+MERGED from [:UniWebView:] /Users/listik/.gradle/caches/transforms-1/files-1.1/UniWebView.aar/034a823bf02d0f138da68cbb235b9e2a/AndroidManifest.xml:9:5-67
+MERGED from [:com.appsflyer.af-android-sdk-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.af-android-sdk-5.4.3.aar/e5fcc1d63c2031b3ea01d911e85402d3/AndroidManifest.xml:11:5-67
+MERGED from [:com.appsflyer.af-android-sdk-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.af-android-sdk-5.4.3.aar/e5fcc1d63c2031b3ea01d911e85402d3/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:36:20-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:37:3-77
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:37:20-74
+uses-feature#android.hardware.location.gps
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:38:3-89
+	android:required
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:38:62-86
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:38:17-61
+uses-feature#android.hardware.location
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:39:3-85
+	android:required
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:39:58-82
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:39:17-57
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:40:3-88
+	android:required
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:40:61-85
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:40:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:41:3-99
+	android:required
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:41:72-96
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:41:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:42:3-108
+	android:required
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:42:81-105
+	android:name
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml:42:17-80
+uses-sdk
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:UniWebView:] /Users/listik/.gradle/caches/transforms-1/files-1.1/UniWebView.aar/034a823bf02d0f138da68cbb235b9e2a/AndroidManifest.xml:5:5-7:41
+MERGED from [:UniWebView:] /Users/listik/.gradle/caches/transforms-1/files-1.1/UniWebView.aar/034a823bf02d0f138da68cbb235b9e2a/AndroidManifest.xml:5:5-7:41
+MERGED from [:androidx.activity.activity-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.activity.activity-1.0.0.aar/d152a6ef6dfd92eec0a0fb9186a509ee/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.activity.activity-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.activity.activity-1.0.0.aar/d152a6ef6dfd92eec0a0fb9186a509ee/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.appcompat.appcompat-1.1.0.aar/29da2ebc55eb9479916f93080b47343a/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.appcompat.appcompat-1.1.0.aar/29da2ebc55eb9479916f93080b47343a/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-resources-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.appcompat.appcompat-resources-1.1.0.aar/9a56577bcdb0329fe7ee1595fbe825bf/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-resources-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.appcompat.appcompat-resources-1.1.0.aar/9a56577bcdb0329fe7ee1595fbe825bf/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.arch.core.core-runtime-2.0.0.aar/d7a206c6529cd00139ce37b93f788f40/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.arch.core.core-runtime-2.0.0.aar/d7a206c6529cd00139ce37b93f788f40/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar/0283556bc873a18db0134b403d960e22/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar/0283556bc873a18db0134b403d960e22/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.browser.browser-1.0.0.aar/9332a2d4cc7d9d6951770373f6b5c563/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.browser.browser-1.0.0.aar/9332a2d4cc7d9d6951770373f6b5c563/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.cardview.cardview-1.0.0.aar/7b24e6061a550ef0b28c57c8abb5d488/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.cardview.cardview-1.0.0.aar/7b24e6061a550ef0b28c57c8abb5d488/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar/5ce9b19ba2b00e9834f8528dc75aaeb7/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar/5ce9b19ba2b00e9834f8528dc75aaeb7/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.1.0.aar/1c9f00fed7e981d9e649209ba2eda903/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.1.0.aar/1c9f00fed7e981d9e649209ba2eda903/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.cursoradapter.cursoradapter-1.0.0.aar/b953b8493c5b2bbc5eddc4455615147b/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.cursoradapter.cursoradapter-1.0.0.aar/b953b8493c5b2bbc5eddc4455615147b/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.customview.customview-1.0.0.aar/1f6145ac084c43f7323d76493a5c875f/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.customview.customview-1.0.0.aar/1f6145ac084c43f7323d76493a5c875f/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.documentfile.documentfile-1.0.0.aar/9eaed59bb857632cc3e17fcabdfea37c/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.documentfile.documentfile-1.0.0.aar/9eaed59bb857632cc3e17fcabdfea37c/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.drawerlayout.drawerlayout-1.0.0.aar/fd764be071d594d8291b43a2e803df69/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.drawerlayout.drawerlayout-1.0.0.aar/fd764be071d594d8291b43a2e803df69/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.fragment.fragment-1.1.0.aar/7dc06551099aec33c4fbbb0f711164b6/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.fragment.fragment-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.fragment.fragment-1.1.0.aar/7dc06551099aec33c4fbbb0f711164b6/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.interpolator.interpolator-1.0.0.aar/bed33f11cc5bff627e2203ad578661b4/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.interpolator.interpolator-1.0.0.aar/bed33f11cc5bff627e2203ad578661b4/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.legacy.legacy-support-core-ui-1.0.0.aar/ab8c468c832d0cd042943dfef5eb99d6/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.legacy.legacy-support-core-ui-1.0.0.aar/ab8c468c832d0cd042943dfef5eb99d6/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.legacy.legacy-support-core-utils-1.0.0.aar/6aafa13e24c827df0d8919a5bda88029/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.legacy.legacy-support-core-utils-1.0.0.aar/6aafa13e24c827df0d8919a5bda88029/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.legacy.legacy-support-v4-1.0.0.aar/38cd8e9e95192f000a42c11582c6eb81/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.legacy.legacy-support-v4-1.0.0.aar/38cd8e9e95192f000a42c11582c6eb81/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-livedata-2.0.0.aar/d9ad0ec0ca8b980b6508fee71e90d728/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-livedata-2.0.0.aar/d9ad0ec0ca8b980b6508fee71e90d728/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-livedata-core-2.0.0.aar/188699209c3e99d7af8a325e2cf2dc88/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-livedata-core-2.0.0.aar/188699209c3e99d7af8a325e2cf2dc88/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-runtime-2.1.0.aar/deaef9f734d74f277ed06dcc4eaa0da2/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-runtime-2.1.0.aar/deaef9f734d74f277ed06dcc4eaa0da2/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-viewmodel-2.1.0.aar/f816350feeff93b67203d0ad08530d3b/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.lifecycle.lifecycle-viewmodel-2.1.0.aar/f816350feeff93b67203d0ad08530d3b/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.loader.loader-1.0.0.aar/031dbd5c3e4069f43f33c5b4d1242ff2/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.loader.loader-1.0.0.aar/031dbd5c3e4069f43f33c5b4d1242ff2/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0.aar/9423bd2bf5c25af4cd1225b467b87273/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0.aar/9423bd2bf5c25af4cd1225b467b87273/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.media.media-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.media.media-1.0.0.aar/afe94867386e452795015d0216e1a9a9/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.media.media-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.media.media-1.0.0.aar/afe94867386e452795015d0216e1a9a9/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.print.print-1.0.0.aar/03e3bfc371649c54b10b8ace8e113f9b/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.print.print-1.0.0.aar/03e3bfc371649c54b10b8ace8e113f9b/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.savedstate.savedstate-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.savedstate.savedstate-1.0.0.aar/06a3183882b0a382fb0fd7abf4fa61d8/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.savedstate.savedstate-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.savedstate.savedstate-1.0.0.aar/06a3183882b0a382fb0fd7abf4fa61d8/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar/44a959d75bca5a139ae5b1f9bbbaed67/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar/44a959d75bca5a139ae5b1f9bbbaed67/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar/838ca49802eb70ee805068f279ddba05/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar/838ca49802eb70ee805068f279ddba05/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.vectordrawable.vectordrawable-1.1.0.aar/130ae012b8194711efe5af7640d74ba9/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.vectordrawable.vectordrawable-1.1.0.aar/130ae012b8194711efe5af7640d74ba9/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.vectordrawable.vectordrawable-animated-1.1.0.aar/43a6d42bbdf7eb3b4a40b3837b1517a3/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.vectordrawable.vectordrawable-animated-1.1.0.aar/43a6d42bbdf7eb3b4a40b3837b1517a3/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.versionedparcelable.versionedparcelable-1.1.0.aar/79249b21cbd8437e5b50a51130671707/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.versionedparcelable.versionedparcelable-1.1.0.aar/79249b21cbd8437e5b50a51130671707/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.viewpager.viewpager-1.0.0.aar/37665f8dcdd066584a178119c1f9c2f2/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/androidx.viewpager.viewpager-1.0.0.aar/37665f8dcdd066584a178119c1f9c2f2/AndroidManifest.xml:20:5-44
+MERGED from [:com.android.installreferrer.installreferrer-2.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.android.installreferrer.installreferrer-2.1.aar/3e7ec536e16c060b2b881c6edca2c88c/AndroidManifest.xml:5:5-7:41
+MERGED from [:com.android.installreferrer.installreferrer-2.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.android.installreferrer.installreferrer-2.1.aar/3e7ec536e16c060b2b881c6edca2c88c/AndroidManifest.xml:5:5-7:41
+MERGED from [:com.appsflyer.af-android-sdk-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.af-android-sdk-5.4.3.aar/e5fcc1d63c2031b3ea01d911e85402d3/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.appsflyer.af-android-sdk-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.af-android-sdk-5.4.3.aar/e5fcc1d63c2031b3ea01d911e85402d3/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.appsflyer.oaid-5.4.2:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.oaid-5.4.2.aar/a5d1c55339dffe9ad404085cc0f502b9/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.appsflyer.oaid-5.4.2:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.oaid-5.4.2.aar/a5d1c55339dffe9ad404085cc0f502b9/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.appsflyer.unity-wrapper-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.unity-wrapper-5.4.3.aar/9c550c7e259e112c9086b6092c5f782e/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.appsflyer.unity-wrapper-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.unity-wrapper-5.4.3.aar/9c550c7e259e112c9086b6092c5f782e/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.facebook.android.facebook-applinks-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-applinks-8.1.0.aar/08218fb20674f7156d8bd99aa1b9747e/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-applinks-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-applinks-8.1.0.aar/08218fb20674f7156d8bd99aa1b9747e/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-gamingservices-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-gamingservices-8.1.0.aar/d8dd3b497dda523b713511d24e4829c8/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-gamingservices-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-gamingservices-8.1.0.aar/d8dd3b497dda523b713511d24e4829c8/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-login-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-login-8.1.0.aar/3e530584a59efa50ce9e2357c3b5bcb9/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-login-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-login-8.1.0.aar/3e530584a59efa50ce9e2357c3b5bcb9/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-share-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-share-8.1.0.aar/fa3c32461c7be24ec3f5ed22579cb854/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-share-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-share-8.1.0.aar/fa3c32461c7be24ec3f5ed22579cb854/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-android-wrapper-8.1.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/facebook-android-wrapper-8.1.1.aar/90034525879ef7247d07c39a5ffc779e/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-android-wrapper-8.1.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/facebook-android-wrapper-8.1.1.aar/90034525879ef7247d07c39a5ffc779e/AndroidManifest.xml:24:5-26:41
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Temp/gradleOut/src/main/AndroidManifest.xml
+activity#com.onevcat.uniwebview.UniWebViewFileChooserActivity
+ADDED from [:UniWebView:] /Users/listik/.gradle/caches/transforms-1/files-1.1/UniWebView.aar/034a823bf02d0f138da68cbb235b9e2a/AndroidManifest.xml:12:9-89
+	android:name
+		ADDED from [:UniWebView:] /Users/listik/.gradle/caches/transforms-1/files-1.1/UniWebView.aar/034a823bf02d0f138da68cbb235b9e2a/AndroidManifest.xml:12:19-86
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.android.installreferrer.installreferrer-2.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.android.installreferrer.installreferrer-2.1.aar/3e7ec536e16c060b2b881c6edca2c88c/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [:com.android.installreferrer.installreferrer-2.1:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.android.installreferrer.installreferrer-2.1.aar/3e7ec536e16c060b2b881c6edca2c88c/AndroidManifest.xml:9:22-107
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.appsflyer.af-android-sdk-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.af-android-sdk-5.4.3.aar/e5fcc1d63c2031b3ea01d911e85402d3/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:com.appsflyer.af-android-sdk-5.4.3:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.appsflyer.af-android-sdk-5.4.3.aar/e5fcc1d63c2031b3ea01d911e85402d3/AndroidManifest.xml:12:22-76
+activity#com.facebook.FacebookActivity
+ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:24:5-197
+	android:configChanges
+		ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:24:60-143
+	android:theme
+		ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:24:144-194
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:24:15-59
+activity#com.facebook.CustomTabMainActivity
+ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:25:15-64
+activity#com.facebook.CustomTabActivity
+ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:26:5-33:16
+	tools:node
+		ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:26:85-103
+	android:exported
+		ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:26:61-84
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:26:15-60
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.DefaultCompany.TestTaskMpulse+data:scheme:fbconnect
+ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:27:7-32:23
+category#android.intent.category.BROWSABLE
+ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:30:9-70
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-common-8.1.0.aar/2dec39dd8bf2d348a38f5d941b96c7e1/AndroidManifest.xml:30:19-67
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:33:5-177
+	android:authorities
+		ADDED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:33:73-149
+	android:exported
+		ADDED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:33:150-174
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:33:15-72
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:34:5-38:16
+	android:exported
+		ADDED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:34:89-113
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:34:15-88
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:35:7-37:23
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:36:9-87
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-8.1.0:] /Users/listik/.gradle/caches/transforms-1/files-1.1/com.facebook.android.facebook-core-8.1.0.aar/26e273b2c1f4b180a08068773566e58c/AndroidManifest.xml:36:17-84

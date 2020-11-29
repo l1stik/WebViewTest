@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AppsFlyer" t="Include">
+          <e p="AFInAppEvents.cs" t="Include" />
+          <e p="AFMiniJSON.cs" t="Include" />
+          <e p="AppsFlyer.cs" t="Include" />
+          <e p="AppsFlyerAndroid.cs" t="Include" />
+          <e p="AppsFlyeriOS.cs" t="Include" />
+          <e p="AppsFlyerObjectScript.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="AppsFlyerDependencies.xml" t="Include" />
+            <e p="AppsFlyerObjectEditor.cs" t="Include" />
+          </e>
+          <e p="IAppsFlyerConversionData.cs" t="Include" />
+          <e p="IAppsFlyerUserInvite.cs" t="Include" />
+          <e p="IAppsFlyerValidateReceipt.cs" t="Include" />
+        </e>
+        <e p="ExternalDependencyManager" t="Include">
+          <e p="Editor" t="Include">
+            <e p="external-dependency-manager_v1.2.144.txt" t="Include" />
+            <e p="GoogleRegistries.xml" t="Include" />
+          </e>
+        </e>
+        <e p="FacebookSDK" t="Include">
+          <e p="Examples" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ConsoleBase.cs" t="Include" />
+              <e p="LogView.cs" t="Include" />
+              <e p="MenuBase.cs" t="Include" />
+              <e p="SubMenus" t="Include">
+                <e p="AccessTokenMenu.cs" t="Include" />
+                <e p="AppEvents.cs" t="Include" />
+                <e p="AppLinks.cs" t="Include" />
+                <e p="AppRequests.cs" t="Include" />
+                <e p="DialogShare.cs" t="Include" />
+                <e p="GraphRequest.cs" t="Include" />
+                <e p="MainMenu.cs" t="Include" />
+                <e p="Pay.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="link.xml" t="Include" />
+          <e p="Plugins" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Dependencies.xml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins2" t="Include">
+          <e p="Android" t="Include">
+            <e p="AndroidManifest.xml" t="Include" />
+          </e>
+        </e>
+        <e p="TestTaskMpulseProjectMaterials" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Essences" t="Include">
+              <e p="GeoService.cs" t="Include" />
+              <e p="KeyDataDTO.cs" t="Include" />
+            </e>
+            <e p="InitializingServicesScene" t="Include">
+              <e p="OutputData.cs" t="Include" />
+              <e p="SettingsInitializingServicesScene.cs" t="Include" />
+              <e p="SwitchButton.cs" t="Include" />
+            </e>
+            <e p="Managers" t="Include">
+              <e p="AppsFlyerManager.cs" t="Include" />
+              <e p="FbManager.cs" t="Include" />
+              <e p="InitializationManager.cs" t="Include" />
+              <e p="SwitchingScenesManager.cs" t="Include" />
+            </e>
+            <e p="WebViewScene" t="Include">
+              <e p="SettingsWebViewScene.cs" t="Include" />
+              <e p="WebViewSceneManager.cs" t="Include" />
+            </e>
+            <e p="WrapperScene" t="Include">
+              <e p="SettingsWrapperScene.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="UniWebView" t="Include">
+          <e p="Interface" t="Include">
+            <e p="UniWebViewAndroid.cs" t="Include" />
+            <e p="UniWebViewAndroidStaticListener.cs" t="Include" />
+            <e p="UniWebViewCocoa.cs" t="Include" />
+            <e p="UniWebViewPlaceholder.cs" t="Include" />
+          </e>
+          <e p="README.txt" t="Include" />
+          <e p="Script" t="Include">
+            <e p="UniWebView.cs" t="Include" />
+            <e p="UniWebViewHelper.cs" t="Include" />
+            <e p="UniWebViewLogger.cs" t="Include" />
+            <e p="UniWebViewMessage.cs" t="Include" />
+            <e p="UniWebViewNativeListener.cs" t="Include" />
+            <e p="UniWebViewToolbarPosition.cs" t="Include" />
+            <e p="UniWebViewTransitionEdge.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="Test­T­a­s­k­M­p­ulse.sln" t="IncludeFlat" />
+    </e>
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_Test­T­a­s­k­M­p­ulse.-255638371.00" t="ExcludeRecursive" />
+  </component>
+</project>

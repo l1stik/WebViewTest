@@ -1,0 +1,2 @@
+/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

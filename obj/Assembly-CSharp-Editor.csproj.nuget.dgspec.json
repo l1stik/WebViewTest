@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Assembly-CSharp-Editor.csproj": {}
+  },
+  "projects": {
+    "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Assembly-CSharp-Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Assembly-CSharp-Editor.csproj",
+        "projectName": "Assembly-CSharp-Editor",
+        "projectPath": "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Assembly-CSharp-Editor.csproj",
+        "packagesPath": "/Users/listik/.nuget/packages/",
+        "outputPath": "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/listik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {
+              "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Assembly-CSharp.csproj": {
+                "projectPath": "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Assembly-CSharp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/Assembly-CSharp.csproj",
+        "packagesPath": "/Users/listik/.nuget/packages/",
+        "outputPath": "/Users/listik/Desktop/Test­T­a­s­k­M­p­ulse/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/listik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

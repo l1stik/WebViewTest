@@ -106,7 +106,6 @@
     <Compile Include="Assets\UniWebView\Script\UniWebViewNativeListener.cs" />
     <Compile Include="Assets\UniWebView\Script\UniWebViewToolbarPosition.cs" />
     <Compile Include="Assets\UniWebView\Script\UniWebViewTransitionEdge.cs" />
-    <None Include="Assets\Plugins2\Android\AndroidManifest.xml" />
     <None Include="Assets\UniWebView\README.txt" />
     <None Include="Assets\FacebookSDK\link.xml" />
     <Reference Include="Unity.TextMeshPro.Editor">

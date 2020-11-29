@@ -1,3 +1,4 @@
+using TestTaskMpulseProjectMaterials.Scripts.Essences;
 using TestTaskMpulseProjectMaterials.Scripts.InitializingServicesScene;
 using UnityEngine;
 
@@ -12,7 +13,8 @@ namespace TestTaskMpulseProjectMaterials.Scripts.Managers
         {
             FbManager.InitializedFbSdk();
             AppsFlyerManager.InitializedAppsFlyerSdk();
-            
+            PlayerPrefs.SetString(KeyDataDTO.LocationKey, GeoService.GetUserLocation());
+
             _outputDataScene.ShowDataOutput();
         }
     }

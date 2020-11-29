@@ -36,12 +36,10 @@ namespace TestTaskMpulseProjectMaterials.Scripts.Managers
                 
                 PlayerPrefs.SetString(KeyDataDTO.FbSdkKey, FB.AppId);
                 PlayerPrefs.SetString(KeyDataDTO.DeepLinkKey, "https://m.vk.com/"); 
-                PlayerPrefs.SetString(KeyDataDTO.LocationKey, GeoService.GetUserLocation());
                 
             } else
             {
                 PlayerPrefs.SetString(KeyDataDTO.FbSdkKey, "Failed to Initialize the Facebook SDK");
-                Debug.Log("Failed to Initialize the Facebook SDK");
             }
         }
         
